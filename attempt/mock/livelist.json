@@ -1,0 +1,62 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": [
+    {
+      "id":1,
+      "imgsrc": "/attempt/images/3.jpg",
+      "title": "美食西餐"
+    },
+    {
+      "id":2,
+      "imgsrc": "/attempt/images/4.jpg",
+      "title": "幼儿园招生"
+    },
+    {
+      "id":3,
+      "imgsrc": "/attempt/images/5.jpg",
+      "title": "店长主推"
+    },
+    {
+      "id":4,
+      "imgsrc": "http://qitu.fj118114.cn/upload/slt_20150805162818214.jpg",
+      "title": "和风物语"
+    },
+    {
+      "id":5,
+      "imgsrc": "http://qitu.fj118114.cn/upload/slt_20151013172543468.jpg",
+      "title": "幼儿园招生"
+    },
+    {
+      "id":6,
+      "imgsrc": "http://qitu.fj118114.cn/upload/slt_20151012155146611.jpg",
+      "title": "店长主推"
+    },
+    {
+      "id":7,
+      "imgsrc": "/attempt/images/3.jpg",
+      "title": "美食西餐"
+    },
+    {
+      "id":8,
+      "imgsrc": "/attempt/images/4.jpg",
+      "title": "幼儿园招生"
+    },
+    {
+      "id":9,
+      "imgsrc": "/attempt/images/5.jpg",
+      "title": "店长主推"
+    },
+    {
+      "id":10,
+      "imgsrc": "/attempt/images/3.jpg",
+      "title": "美食西餐"
+    },
+    {
+      "id":11,
+      "imgsrc": "/attempt/images/4.jpg",
+      "title": "幼儿园招生"
+    }
+  ]
+}
