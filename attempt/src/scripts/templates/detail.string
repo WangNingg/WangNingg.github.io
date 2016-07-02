@@ -1,0 +1,21 @@
+<div class="swiper-container" id="swiper-con">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+        <div>
+          <img class="ani" src="/attempt/images/1.png" swiper-animate-effect="rollIn" swiper-animate-duration="0.8s" swiper-animate-delay="0.2s"/>
+          <img class="ani" src="http://qitu.fj118114.cn/qitu/zhi.php?str=O2time%20%E6%9C%89%E6%B0%A7%E6%97%B6%E9%97%B4&ziti=2&fsize=36&bold=0&yy=0&r=0&g=0&b=0&hangju=1.2&align=0" swiper-animate-effect="fadeIn" swiper-animate-duration="2s" swiper-animate-delay="0.5s"/>
+          <img class="ani" src="http://qitu.fj118114.cn/qitu/zhi.php?str=%E5%BF%83%20%E6%83%85%20%E5%BE%AE%20%E8%B0%83%20%20%20%E5%81%A5%20%E5%BA%B7%20%E6%9C%89%20%E7%90%86%0A%20%20%20%E4%B8%93%20%E6%B3%A8%20%E4%BA%9A%20%E5%81%A5%20%E5%BA%B7%20%E8%B0%83%20%E7%90%86&ziti=2&fsize=18&bold=0&yy=0&r=0&g=0&b=0&hangju=2.5&align=0" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="0.7s"/>
+        </div>
+    </div>
+    <div class="swiper-slide">
+      <div>
+        <img class="ani" src="http://qitu.fj118114.cn/qitu/zhi.php?str=O2time%20%20%E9%85%8D%E5%A5%97%E6%9C%8D%E5%8A%A1&ziti=2&fsize=36&bold=0&yy=0&r=0&g=0&b=0&hangju=1.2&align=0" swiper-animate-effect="fadeInLeft" swiper-animate-duration="0.8s" swiper-animate-delay="0.2s"/>
+        <img class="ani" src="http://qitu.fj118114.cn/qitu/zhi.php?str=%E5%85%8D%E8%B4%B9%E5%BE%AA%E7%8E%AF%E5%9F%B9%E8%AE%AD%0A%E9%9A%8F%E5%88%B0%E9%9A%8F%E5%AD%A6%0A%E6%88%90%E7%86%9F%E7%9A%84%E5%BC%80%E5%BA%97%E8%90%A5%E9%94%80%E6%96%B9%E6%A1%88%0A%E5%85%A8%E7%A8%8B%E8%B7%9F%E8%B8%AA%E5%BC%8F%E6%9C%8D%E5%8A%A1%20%0A%E6%8A%80%E6%9C%AF%E7%AE%80%E5%8D%95%20%E5%AE%B9%E6%98%93%E5%A4%8D%E5%88%B6%EF%BC%8C%E5%AD%A6%E4%BC%9A%E4%B8%BA%E6%AD%A2%E6%88%90%E7%86%9F%E5%BC%80%E5%BA%97%E8%90%A5%E9%94%80%E4%BB%BF%E7%89%88%20%0A%E5%8A%A0%E7%9B%9F.%200%E9%97%A8%E6%A7%9B&ziti=2&fsize=20&bold=0&yy=0&r=0&g=0&b=0&hangju=2.5&align=0" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="0.4s"/>
+        <img class="ani" src="http://qitu.fj118114.cn:9091/upload/d37747773d195312003e58c94c7e1e8c.png" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s"/>
+      </div>
+    </div>
+    <div class="swiper-slide">detail3</div>
+    <div class="swiper-slide">detail4</div>
+    <div class="swiper-slide">detail5</div>
+  </div>
+</div>
